@@ -1,6 +1,6 @@
 // API Configuration
 const API_URL =
-  "https://script.google.com/macros/s/AKfycbwLo5yziLGTebdj4YhDT6FDJmE7pNh6pxMZ-sItOAnsUdFipMFnfF2FZ1FVCQBmcq5b/exec"
+  "https://script.google.com/macros/s/AKfycbzEyA_LW2bqYHqpy7HofVtBFgFA1GTGiC9JsjYnONRxTQc0-S1VLWDioYwpWXosbQDKZQ/exec"
 
 let allTasks = []
 const modifiedTasks = {}
